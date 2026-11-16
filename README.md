@@ -1,0 +1,1 @@
+Q&A Assistant over AI Act (Regulation (EU) 2024/1689 and GDPR (Regulation (EU) 2016/679)

@@ -1,0 +1,21 @@
+# Sources for the EU laws Q&A assistant.
+# Human-readable documentation and machine-readable input for scripts.
+# Paths are relative to the repo root. Dates are ISO 8601 (YYYY-MM-DD).
+
+- title: AI Act
+  key_prefix: AIA
+  raw_path: data/raw/L_202401689EN.000101.fmx.xml.html
+  url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689
+  downloaded: 2026-11-16
+
+- title: GDPR
+  key_prefix: GDPR
+  raw_path: data/raw/L_2016119EN.01000101.xml.html
+  url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679
+  downloaded: 2026-11-16
+
+- title: Digital Omnibus on AI
+  key_prefix: DO_AI
+  raw_path: data/raw/L_202601744EN.000101.fmx.xml.html
+  url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601744
+  downloaded: 2026-11-16
