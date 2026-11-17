@@ -15,6 +15,8 @@ Sources are listed in `sources.yaml`. Raw EUR-Lex HTML files are stored in
 `data/raw/`, and `src/raw_data_extractor.py` parses them into JSONL files in
 `data/parsed/`.
 
+**Note:** The gold Q&A dataset was generated synthetically to speed up development. For a more reliable evaluation, it should be replaced or supplemented with human-written questions.
+
 ## Setup
 
     uv sync
